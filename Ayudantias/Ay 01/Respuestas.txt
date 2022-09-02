@@ -1,0 +1,10 @@
+1.  a) 20
+2.  b) 30
+3.  d) Direccion de memoria de a
+4.  a) 10
+5.  a) 10
+6.  b) 12
+7.  c) 6, direccion de memoria de p
+8.  d) 92
+9.  a) 90.5, 3
+10. b) 19
